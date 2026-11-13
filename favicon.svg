@@ -1,0 +1,31 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 260">
+  <rect width="240" height="260" rx="32" fill="#0D0D0D"/>
+
+  <g transform="translate(-15 0)">
+    <path
+      d="M55 25
+         H215
+         L190 62
+         H130
+         V96
+         H195
+         L170 130
+         H130
+         V230
+         H80
+         V130
+         H65
+         V96
+         H80
+         V62
+         H65
+         Z"
+      fill="#F97316"
+    />
+
+    <path d="M55 25 H215 L190 62 H65 Z" fill="#FB923C"/>
+    <path d="M80 96 H195 L170 130 H80 Z" fill="#C2410C"/>
+    <path d="M80 130 H130 V230 H80 Z" fill="#EA580C"/>
+  </g>
+</svg>
